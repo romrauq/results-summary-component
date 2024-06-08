@@ -130,7 +130,7 @@ body {
 .percentage {
 	color: hsl(224, 30%, 27%);
 	font-weight: 700;
-	margin: 0 0px 0 35px;
+	margin: 0 3px 0 35px;
 }
 
 .hundred {
