@@ -70,6 +70,7 @@ body {
 .statistics-text {
 	font-size: 10px;
 	text-align: center;
+	color: hsl(241, 100%, 89%);
 }
 
 .col-right-div {
