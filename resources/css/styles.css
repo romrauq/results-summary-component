@@ -55,6 +55,7 @@ body {
 
 .cirle-large-number {
 	font-size: 36px;
+	font-weight: 700;
 }
 
 .cirle-small-number {
@@ -149,4 +150,47 @@ body {
 
 .button:hover {
 	background: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(234, 85%, 45%));
+}
+
+@media (max-width: 375px) {
+	.main-container {
+	}
+	.col-left-div {
+	}
+	.title-left {
+	}
+	.circle-gradient-container {
+	}
+	.cirle-large-number {
+	}
+	.cirle-small-number {
+	}
+	.great-text {
+	}
+	.statistics-text {
+	}
+	.col-right-div {
+	}
+	.title-right {
+	}
+	.items-container {
+	}
+	.summary-item-row {
+	}
+	.summary-item-img {
+	}
+	.reaction-item {
+	}
+	.memory-item {
+	}
+	.verbal-item {
+	}
+	.visual-item {
+	}
+	.percentage {
+	}
+	.hundred {
+	}
+	.button {
+	}
 }
